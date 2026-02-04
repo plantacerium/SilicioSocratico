@@ -6,6 +6,17 @@
 
 ---
 
+<div align="center">
+
+**Made with ❤️ and ☕ by Plantacerium**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
+
+⭐ **Star us on GitHub** ⭐
+</div>
+
+---
+
 ## 🚀 ¿Qué hay en la caja?
 
 El sistema se divide en dos almas interconectadas:
