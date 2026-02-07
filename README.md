@@ -60,6 +60,11 @@ Ejecuta el agente dinámico:
 python BDI_Companion_Pythoner.py
 ```
 
+o
+
+```bash
+python Socratic_Guidance.py
+```
 ### 3. El Flujo de Élite
 El agente PEN (Python Elite Navigator) te presentará desafíos. **IMPORTANTE**: No te dará el código. Te hará preguntas para que tú lo descubras. Si fallas, aplicaremos el **Growth Mindset Feedback** para ajustar la dificultad y seguir escalando.
 
